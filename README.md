@@ -1,6 +1,8 @@
 # introduction
 this is my main portfolio probably maybe <br>
-will be updated in the future with some of my project and whatever I plan to make hopefully
+will be updated in the future with some of my project and whatever I plan to make hopefully <br>
+:D
+![hi](https://github.com/alsono/pixl-site-cute-something-i-m-so-great-at-naming-things/blob/main/Screenshot_5-9-2026_175116_alsono.github.io.jpeg)
 # use case
 - read a little about me!
 - read about my project(s)
