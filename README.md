@@ -12,3 +12,7 @@ will be updated in the future with some of my project and whatever I plan to mak
 - its literally just a wall of text
 - why are you still
 - reading these
+# to be added
+- scrolling and actual pages for my projects when i do a few more
+- easter eggs hopefully
+- ui improvement and back end rewrite
